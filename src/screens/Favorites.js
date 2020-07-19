@@ -83,7 +83,7 @@ const Favorites = () => {
             dispatch(getForecast(city.Key));
           }}>
             <h1 className="city-name">{city.LocalizedName}</h1>
-            <img className="weather-icon" src={require(`../../public/images/weather-icons/${forecast.WeatherIcon}.png`)} alt={`favorites ${i}`}/>
+            <img className="weather-icon" src={require(`../images/weather-icons/${forecast.WeatherIcon}.png`)} alt={`favorites ${i}`}/>
             <h2 className="temperature">{forecast.Temperature.Imperial.Value}{'\xB0F'}</h2>
             <h3 className="weather-condition">{forecast.WeatherText}</h3>
           </Link>
