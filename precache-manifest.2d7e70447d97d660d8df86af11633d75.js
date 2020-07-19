@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f02c1918b41b63f688831a625b396b17",
+    "revision": "d5b9160ed11330a075445a0ab04ca4d9",
     "url": "/Nir-Adar-14-7-2020/index.html"
   },
   {
-    "revision": "d2c1896f1a87b90ff36d",
+    "revision": "3b8012801480762912f9",
     "url": "/Nir-Adar-14-7-2020/static/css/main.9f26d9fc.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Nir-Adar-14-7-2020/static/js/2.8e7dfa15.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d2c1896f1a87b90ff36d",
-    "url": "/Nir-Adar-14-7-2020/static/js/main.2c88c4a6.chunk.js"
+    "revision": "3b8012801480762912f9",
+    "url": "/Nir-Adar-14-7-2020/static/js/main.1b40893f.chunk.js"
   },
   {
     "revision": "00ccc77dc013fcbe079e",
