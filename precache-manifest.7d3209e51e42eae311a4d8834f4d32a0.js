@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "07384bed5327369f91e6e8dce1c7482d",
+    "revision": "f02c1918b41b63f688831a625b396b17",
     "url": "/Nir-Adar-14-7-2020/index.html"
   },
   {
-    "revision": "4814df2790b1735a20ea",
+    "revision": "d2c1896f1a87b90ff36d",
     "url": "/Nir-Adar-14-7-2020/static/css/main.9f26d9fc.chunk.css"
   },
   {
-    "revision": "50e4f36054d608984c3f",
-    "url": "/Nir-Adar-14-7-2020/static/js/2.d529875b.chunk.js"
+    "revision": "a2fd4a283739155332a4",
+    "url": "/Nir-Adar-14-7-2020/static/js/2.8e7dfa15.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/Nir-Adar-14-7-2020/static/js/2.d529875b.chunk.js.LICENSE.txt"
+    "url": "/Nir-Adar-14-7-2020/static/js/2.8e7dfa15.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4814df2790b1735a20ea",
-    "url": "/Nir-Adar-14-7-2020/static/js/main.86790c97.chunk.js"
+    "revision": "d2c1896f1a87b90ff36d",
+    "url": "/Nir-Adar-14-7-2020/static/js/main.2c88c4a6.chunk.js"
   },
   {
     "revision": "00ccc77dc013fcbe079e",
