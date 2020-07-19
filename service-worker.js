@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Nir-Adar-14-7-2020/precache-manifest.621f7e0923e5b3acc18b7614065289ff.js"
+  "/Nir-Adar-14-7-2020/precache-manifest.11c1a3144f709c53761aadeeb4280c47.js"
 );
 
 self.addEventListener('message', (event) => {
