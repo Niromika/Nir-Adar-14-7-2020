@@ -66,7 +66,7 @@ const CurrentWeather = () => {
       <div className="details">
         <h2 className="weather-condition">{WeatherText}</h2>
         <h3 className="temperature">{Temperature.Imperial.Value}{'\xB0F'}</h3>
-        <img src={require(`../../public/images/weather-icons/${WeatherIcon}.png`)} />
+        <img src={require(`../../public/images/weather-icons/${WeatherIcon}.png`)} alt="Current Forecast"/>
         <Button />
       </div>
     </CurrentWeatherStyled>

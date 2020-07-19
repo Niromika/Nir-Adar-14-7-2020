@@ -41,7 +41,7 @@ const FiveDaysForecast = () => {
         return (
           <div className="daily-forecast" key={i}>
             <h1 className="day-title">{days[new Date(forecast.Date).getDay()]}</h1>
-            <img className="weather-icon" src={require(`../../public/images/weather-icons/${forecast.Day.Icon}.png`)} />
+            <img className="weather-icon" src={require(`../../public/images/weather-icons/${forecast.Day.Icon}.png`)} alt={`five days ${i}`}/>
             <h2>{forecast.Temperature.Minimum.Value}{'\xB0F'} - {forecast.Temperature.Maximum.Value}{'\xB0F'}</h2>
           </div>
         )
