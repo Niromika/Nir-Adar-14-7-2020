@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1905688eef5587fee1794b4e3e80cc1b",
+    "revision": "07384bed5327369f91e6e8dce1c7482d",
     "url": "/Nir-Adar-14-7-2020/index.html"
   },
   {
