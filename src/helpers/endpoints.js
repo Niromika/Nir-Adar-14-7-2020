@@ -4,13 +4,13 @@
 const API_KEY = 'AHSzAxrPBDGneH9FL7KBX4DbuE3Whpxx';
 
 export const getDailyWeather = key => {
-  return `http://dataservice.accuweather.com/currentconditions/v1/${key}?apikey=${API_KEY}`;
+  return `https://dataservice.accuweather.com/currentconditions/v1/${key}?apikey=${API_KEY}`;
 };
 
 export const getFiveDaysForecast = key => {
-  return `http://dataservice.accuweather.com/forecasts/v1/daily/5day/${key}?apikey=${API_KEY}`;
+  return `https://dataservice.accuweather.com/forecasts/v1/daily/5day/${key}?apikey=${API_KEY}`;
 };
 
 export const searchCities = inputValue => {
-  return `http://dataservice.accuweather.com/locations/v1/cities/autocomplete?apikey=${API_KEY}&q=${inputValue}`;
+  return `https://dataservice.accuweather.com/locations/v1/cities/autocomplete?apikey=${API_KEY}&q=${inputValue}`;
 };
