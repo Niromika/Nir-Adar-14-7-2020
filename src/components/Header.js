@@ -10,7 +10,7 @@ const HeaderStyled = styled.div`
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 20px 40px 20px 40px;
+  padding: 20px 20px 20px 40px;
 
   .company-title {
     max-width: 50px;
@@ -26,10 +26,12 @@ const HeaderStyled = styled.div`
     .link {
       text-decoration: none;
       color: #fff;
-    }
-
-    .right {
-      padding-left: 35px;
+      padding: 10px 20px;
+      &:hover {
+        background-color: #f5f5f5;
+        color: rgb(5, 51, 107);
+        border-radius: 4px;
+      }
     }
   }
 
@@ -50,7 +52,7 @@ const Header = () => {
             <Link to='/' className="link">HOME</Link>
           </li>
           <li>
-            <Link to='/favorites' className="link right">FAVORITES</Link>
+            <Link to='/favorites' className="link">FAVORITES</Link>
           </li>
         </ul>
       </nav>

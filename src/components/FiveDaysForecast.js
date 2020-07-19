@@ -13,11 +13,11 @@ const FiveDaysForecastStyled = styled.div`
     align-items: center;
     min-width: 200px;
     min-height: 200px;
-    border-radius: 10px;
+    border-radius: 4px;
     margin: 0 5px 15px 5px;
     text-align: center;
     background-color: rgba(0, 93, 255, 0.1);
-    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 2px 0px rgba(0,0,0,0.75);
     
 
     .day-title {

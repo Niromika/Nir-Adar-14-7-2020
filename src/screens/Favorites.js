@@ -10,14 +10,14 @@ const FavoritesStyled = styled.div`
   justify-content: space-evenly;
   align-items: center;
   flex-wrap: wrap;
-  height: 100%;
 
   .daily-forecast {
     display: flex;
     flex-direction: column;
     align-items: center;
-    border-radius: 10px;
+    border-radius: 4px;
     text-decoration: none;
+    font-size: 18px;
     color: #F5F5F5;
     padding: 20px;
     width: 250px;
@@ -30,8 +30,8 @@ const FavoritesStyled = styled.div`
       -1px 1px 0 #000,
       1px 1px 0 #000;
     margin: 15px;
-    background-color: rgba(0,153,255,0.1);
-    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+    background-color: rgba(200,255,255, .1);
+    box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.75);
 
     &:hover {
       background: rgba(255,255,255,0.2);

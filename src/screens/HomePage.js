@@ -32,6 +32,6 @@ const HomePage = () => {
       <FiveDaysForecast />
     </HomeStyled>
   );
-};
+}
 
 export default HomePage;
