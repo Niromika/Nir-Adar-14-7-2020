@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d5b9160ed11330a075445a0ab04ca4d9",
+    "revision": "8c1b67b17c27507338286f05195c20d8",
     "url": "/Nir-Adar-14-7-2020/index.html"
   },
   {
-    "revision": "3b8012801480762912f9",
-    "url": "/Nir-Adar-14-7-2020/static/css/main.9f26d9fc.chunk.css"
+    "revision": "c02ccc8f99ee33459d5f",
+    "url": "/Nir-Adar-14-7-2020/static/css/main.c83b2148.chunk.css"
   },
   {
     "revision": "a2fd4a283739155332a4",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Nir-Adar-14-7-2020/static/js/2.8e7dfa15.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3b8012801480762912f9",
-    "url": "/Nir-Adar-14-7-2020/static/js/main.1b40893f.chunk.js"
+    "revision": "c02ccc8f99ee33459d5f",
+    "url": "/Nir-Adar-14-7-2020/static/js/main.b69c7055.chunk.js"
   },
   {
     "revision": "00ccc77dc013fcbe079e",
@@ -166,5 +166,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e2bd4b3eee6c33135e468a2595e8f231",
     "url": "/Nir-Adar-14-7-2020/static/media/8.e2bd4b3e.png"
+  },
+  {
+    "revision": "8baf47ae97b1394757b21f7d86472409",
+    "url": "/Nir-Adar-14-7-2020/static/media/background.8baf47ae.jpg"
   }
 ]);
